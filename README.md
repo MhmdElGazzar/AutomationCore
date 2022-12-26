@@ -13,10 +13,11 @@ API UML
 4- add logging code and reporting<br>
 5- API tests
 
-#FE 
+# FE  <br>
 FE UML <br>
 FE Tests<br>
 
+# AWS
 things to improve in AWS code<br>
 1- make aws region a system property <br>
 2- make aws login profile a config value<br>
