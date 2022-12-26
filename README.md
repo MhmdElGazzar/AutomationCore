@@ -1,4 +1,7 @@
 # AutomationCore
+![image](https://user-images.githubusercontent.com/77445441/209538412-b14faf06-09ec-4ca4-bd41-97c488b41242.png)
+
+
 make it online dependency<br>
 FE, API UML <br>
 API, FE Tests<br>
