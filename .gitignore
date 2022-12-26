@@ -1,0 +1,6 @@
+
+allure-results/
+target/
+.idea/
+extent-reports/
+AutomationCore.iml
